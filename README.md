@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# SteamMewks
+## SteamMewks
 
 **A creative laboratory for games, tools, embedded systems and experimental works.**
 
@@ -13,27 +11,6 @@ SteamMewksは、ゲーム、Webツール、組み込み開発、試作システ�
 を重視しています。
 
 完成品だけでなく、プロトタイプ、旧版、実験コード、失敗から生まれた仕組みも、制作の一部として残していきます。
-
----
-
-## Fields
-
-SteamMewksでは、主に以下の分野を扱っています。
-
-- Browser Games
-- Web Applications
-- Experimental Tools
-- Embedded Systems
-- Raspberry Pi / Raspberry Pi Pico
-- PIC Microcontrollers
-- Game AI
-- Procedural Systems
-- Prototypes and Development Archives
-- Physical Works and Interactive Objects
-
-作品によって、デジタルと物理の両方を組み合わせることもあります。
-
----
 
 ## Featured Works
 

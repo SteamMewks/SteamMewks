@@ -12,6 +12,8 @@ SteamMewksは、ゲーム、Webツール、組み込み開発、試作システ�
 
 完成品だけでなく、プロトタイプ、旧版、実験コード、失敗から生まれた仕組みも、制作の一部として残していきます。
 
+---
+
 ## Featured Works
 
 ### SteamMewks Laboratory Archives
@@ -53,23 +55,6 @@ https://github.com/SteamMewks/Mental-Weather-Forecast
 
 ---
 
-## Embedded Development
-
-今後、Raspberry Pi、Raspberry Pi Pico、PICマイコンなどを利用したコードや試作も公開していく予定です。
-
-扱う内容は、単なるサンプルコードだけでなく、
-
-- センサー制御
-- 入出力制御
-- 小型機構
-- インタラクティブ作品
-- ゲームや物理作品との連動
-- 実験的な制御システム
-
-などを想定しています。
-
----
-
 ## Development Style
 
 SteamMewksでは、完成したコードだけを成果とは考えていません。
@@ -108,18 +93,6 @@ SteamMewksでは、完成したコードだけを成果とは考えていませ�
 - PIC Microcontrollers
 
 今後、必要に応じて他の言語や環境も追加していきます。
-
----
-
-## About the Laboratory
-
-SteamMewksは、特定のジャンルや技術分野に収まることを目的としていません。
-
-ゲームを作るためにAIが必要ならAIを作り、  
-物理作品を動かすためにマイコンが必要ならマイコンを使い、  
-記録ツールが必要ならWebアプリを作る。
-
-必要な技術を組み合わせながら、一つの仕組みとして完成させることを目指しています。
 
 ---
 
